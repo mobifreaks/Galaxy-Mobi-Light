@@ -2,7 +2,7 @@
 
 Galaxy Light: a blog template for phones, with a single-post view, contact page and typography reference.
 
-**[Live demo](https://mobifreaks.github.io/Galaxy-Mobi-Light/)** ·
+**[Live demo](https://mobifreaks.munawarahmed.com/Galaxy-Mobi-Light/)** ·
 [Download zip](https://github.com/mobifreaks/Galaxy-Mobi-Light/archive/HEAD.zip) ·
 [All 22 templates](https://munawarahmed.com/mobifreaks)
 
